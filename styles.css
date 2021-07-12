@@ -43,6 +43,15 @@ ul {
     text-transform: uppercase;
     margin-right: 40px;
     letter-spacing: 0.1em;
+
+    transition: 0.4s ease-in;
+}
+
+.btn-home:hover,
+.btn-about:hover,
+.btn-tickets:hover,
+.btn-contacts:hover {
+    color: black;
 }
 
 .tel {
